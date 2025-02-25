@@ -4,7 +4,7 @@
 
 ## Архитектура на AWS Cloud
 
-![AWS Cloud](/home/yc/Documents/tet/aws_cloud.jpg)
+![AWS Cloud](/aws_cloud.jpg)
 
 
 
