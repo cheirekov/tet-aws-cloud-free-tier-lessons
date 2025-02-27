@@ -121,3 +121,35 @@ AWS е предпочитан избор за много големи компа
 - **Описание**: Twitch, платформата за стрийминг на видео игри, използва AWS за своите сървъри и инфраструктура. AWS осигурява мащабируемост и надеждност, необходими за предаване на видео в реално време към милиони зрители.
 
 Тези примери демонстрират как AWS може да поддържа големи и сложни платформи, предоставяйки им необходимата гъвкавост и мащабируемост за успех в глобален мащаб.
+
+| Услуга | AWS | Azure | GCP | Alibaba Cloud |
+|--------|-----|-------|-----|--------------|
+| **Изчислителни услуги** |
+| Виртуални машини | EC2 (Elastic Compute Cloud) | Virtual Machines | Compute Engine | ECS (Elastic Compute Service) |
+| Контейнери | ECS (Elastic Container Service), EKS (Elastic Kubernetes Service) | AKS (Azure Kubernetes Service) | GKE (Google Kubernetes Engine), Anthos | ACK (Alibaba Container Service for Kubernetes) |
+| Безсървърни изчисления | Lambda | Functions | Cloud Functions | Function Compute |
+| **Бази данни** |
+| Релационни бази данни | RDS (Relational Database Service) | SQL Database | Cloud SQL | RDS (Relational Database Service) |
+| NoSQL бази данни | DynamoDB | Cosmos DB | Firestore, Bigtable | ApsaraDB for MongoDB, Redis, etc. |
+| Кеширане | ElastiCache | Redis Cache | Memorystore | ApsaraDB for Redis |
+| **Съхранение** |
+| Обектно съхранение | S3 (Simple Storage Service) | Blob Storage | Cloud Storage | OSS (Object Storage Service) |
+| Блок съхранение | EBS (Elastic Block Store) | Managed Disks | Persistent Disk | ESSD (Elastic SSD) |
+| Архивиране | Glacier | Archive Storage | Coldline Storage | Object Storage Service (OSS) Archive |
+| **Мрежови услуги** |
+| Виртуални частни мрежи (VPC) | VPC | Virtual Network | VPC | VPC (Virtual Private Cloud) |
+| Балансиране на натоварването | ELB (Elastic Load Balancer) | Load Balancer | Load Balancing | SLB (Server Load Balancer) |
+| CDN (Content Delivery Network) | CloudFront | CDN | Cloud CDN | Content Delivery Network (CDN) |
+| **Сигурност** |
+| Идентичност и достъп | IAM (Identity and Access Management) | Azure AD | IAM & IAP | RAM (Resource Access Management) |
+| Защита от DDoS атаки | Shield | DDoS Protection Plan | DDoS Protection | Anti-DDoS Premium |
+| Криптиране | KMS (Key Management Service) | Key Vault | Cloud KMS | KMS (Key Management Service) |
+| **Анализ и машинно обучение** |
+| Анализ на големи данни | EMR (Elastic MapReduce), Redshift | HDInsight, Data Lake Analytics | Dataproc, BigQuery | MaxCompute |
+| Машинно обучение | SageMaker | Machine Learning Studio | AI Platform, AutoML | PAI (Platform for Artificial Intelligence) |
+| **Управление и мониторинг** |
+| Мониторинг | CloudWatch | Monitor | Stackdriver | ARMS (Application Realtime Monitoring Service) |
+| Лог мениджмънт | CloudTrail, CloudWatch Logs | Log Analytics | Logging, Error Reporting | SLS (Log Service) |
+| Оркестрация и автоматизация | CloudFormation | Resource Manager | Deployment Manager | CloudFormation, Resource Orchestration Service (ROS) |
+
+Тази таблица предоставя общ преглед на някои от основните услуги, предлагани от четирите облачни платформи. Всяка услуга може да има множество под-услуги и функции, които не са включени тук.
