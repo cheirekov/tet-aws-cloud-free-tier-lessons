@@ -122,6 +122,8 @@ AWS е предпочитан избор за много големи компа
 
 Тези примери демонстрират как AWS може да поддържа големи и сложни платформи, предоставяйки им необходимата гъвкавост и мащабируемост за успех в глобален мащаб.
 
+## Tаблица предоставяща по-подробен преглед на услугите, предлагани от AWS, Azure, GCP и Alibaba Cloud. Въпреки това, всяка платформа предлага множество други услуги и функционалности, които не са включени тук. Препоръчвам да посетите официалните сайтове на доставчиците за най-актуалната и подробна информация.
+
 | Услуга | AWS | Azure | GCP | Alibaba Cloud |
 |--------|-----|-------|-----|--------------|
 | **Изчислителни услуги** |
@@ -151,5 +153,22 @@ AWS е предпочитан избор за много големи компа
 | Мониторинг | CloudWatch | Monitor | Stackdriver | ARMS (Application Realtime Monitoring Service) |
 | Лог мениджмънт | CloudTrail, CloudWatch Logs | Log Analytics | Logging, Error Reporting | SLS (Log Service) |
 | Оркестрация и автоматизация | CloudFormation | Resource Manager | Deployment Manager | CloudFormation, Resource Orchestration Service (ROS) |
+| **Интеграция и API управление** |
+| API Gateway | API Gateway, AppSync | API Management | Apigee API Platform | API Gateway |
+| **Интернет на нещата (IoT)** |
+| IoT услуги | IoT Core, Greengrass | IoT Hub, IoT Central | Cloud IoT Core | IoT Platform |
+| **Бизнес приложения** |
+| Работни пространства | WorkSpaces, Chime | Dynamics 365, Power BI | Looker, Google Workspace | DingTalk, EnterpriseDing |
+| **Мобилни услуги** |
+| Мобилни разработки | Amplify, Pinpoint | Mobile Apps, Notification Hubs | Firebase | Mobile Push, Mobile Analytics |
+| **DevOps и CI/CD** |
+| DevOps инструменти | CodePipeline, CodeBuild | DevOps, Pipelines | Cloud Build, Spinnaker | CodePipeline, DevOps Pro |
+| **Гейминг** |
+| Гейминг услуги | GameLift | PlayFab | Game Servers | Game Server |
+| **Медийни услуги** |
+| Медийни решения | MediaConvert, Elemental | Media Services | Media CDN, Video AI | VOD (Video on Demand), Live Streaming |
+| **Киберсигурност** |
+| Киберсигурност | GuardDuty, Inspector | Security Center, Sentinel | Chronicle, BeyondCorp | WAF (Web Application Firewall), CASB (Cloud Access Security Broker) |
+| **Блокчейн** |
+| Блокчейн услуги | Managed Blockchain | Azure Blockchain Service | Blockchain Nodes | BaaS (Blockchain as a Service) |
 
-Тази таблица предоставя общ преглед на някои от основните услуги, предлагани от четирите облачни платформи. Всяка услуга може да има множество под-услуги и функции, които не са включени тук.
