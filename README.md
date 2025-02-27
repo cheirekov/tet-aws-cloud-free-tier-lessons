@@ -111,6 +111,14 @@
 
 [Линк към урока](/Урок_12/README.md)
 
+### Урок 13: Подготовка за AWS Certified Cloud Practitioner (по желание)
+- Разбиране на сертификацията AWS Certified Cloud Practitioner
+- Запознаване с основните теми, включени в изпита
+- Изучаване на стратегии за успешно полагане на изпита
+- Използване на наличните ресурси за подготовка
+
+[Линк към урока](/Урок_13/README.md)
+
 ## Допълнителни ресурси
 - [AWS Documentation](https://docs.aws.amazon.com/)
 - [AWS Training and Certification](https://aws.amazon.com/training/)
